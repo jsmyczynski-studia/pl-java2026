@@ -23,7 +23,7 @@
           wykrywanie usług. Aplikacja będzie składała się z minimum dwóch mikroserwisów, które będą się wzajemnie
           komunikowały przy użyciu Spring Eureka jako serwera rejestracji usług.
         - [ ] Wykorzystanie **Spring Cloud Config Server**, który centralizuje zarządzanie konfiguracją dla wielu
-          mikroserwisów. Dzięki temu, wszystkie serwisy w systemie mogą korzystać z jednej wspólnej konfiguracji,
+          mikroserwisów. Dzięki temu wszystkie serwisy w systemie mogą korzystać z jednej wspólnej konfiguracji,
           przechowywanej w centralnym miejscu (np. w plikach YAML na oddzielnym repozytorium Git), a zmiany w
           konfiguracji są natychmiastowo propagowane do aplikacji.
         - [ ] Wykorzystanie **Keycloak** lub **Spring Authorization Server** (lub inny nieprezentowany podczas zajęć)
@@ -45,33 +45,36 @@
 
 ## Realizowane zagadnienia
 
-| Prowadzący | Temat                                                                                                                                                                                                                                                                                  |
-|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ŁCh        | - Cucumber (BDD) + AssertJ<br>- Spring: Podstawowe zagadnienia, MVC, RestController, HttpClient, JPA<br>- LLM                                                                                                                                                                          |
-| MD         | - Wprowadzenie + IntelliJ<br>- Testy Mutacyjne<br>- From Java to Go                                                                                                                                                                                                                    |
-| MK         | - Logi + Observability (JMX+Spring Atuators/Endpoints)<br>- Spring AOP<br>- Refleksja, Classloader, Annotation Processing                                                                                                                                                              |
+| Prowadzący | Temat                                                                                                                                                                                                                                                                                      |
+|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ŁCh        | - Cucumber (BDD) + AssertJ<br>- Spring: Podstawowe zagadnienia, MVC, RestController, HttpClient, JPA<br>- LLM                                                                                                                                                                              |
+| MD         | - Wprowadzenie + IntelliJ<br>- Testy Mutacyjne<br>- From Java to Go                                                                                                                                                                                                                        |
+| MK         | - Logi + Observability (JMX+Spring Atuators/Endpoints)<br>- Spring AOP<br>- Refleksja, Classloader, Annotation Processing                                                                                                                                                                  |
 | ZN         | - JDK Updates (od wersji 9 do wersji 25)<br>- Mikroserwisy 101: praktyczne podstawy budowy systemu z wykorzystaniem REST i Spring Cloud Eureka<br>- Mikroserwisy 102 (+ Spring Security): zaawansowane tematy związane z wykorzystaniem narzędzi do zarządzania autoryzacją i autentykacją |
 
 ## Ramowy plan zajęć
 
-| Lp | Data  | Temat | Uwagi |
-|----|-------|-------|-------|
-| 1  | 2.03  | Wprowadzenie + IntelliJ                        |  [Materiały na zajęcia](https://github.com/zzpj/pl-java2025/tree/main/intro-intellij)     |
-| 2  | 9.03  |                                                |       |
-| 3  | 16.03 |                                                |       |
-| 4  | 23.03 | Przedstawienie pomysłu na projekt              |       |
-| 5  | 30.03 |                                                |       |
-| 6  | 13.04 |                                                |       |
-| 7  | 20.04 |                                                |       |
-| 8  | 4.05  |                                                |       |
-| 9  | 11.05 |                                                |       |
-| 10 | 18.05 |                                                |       |
-| 11 | 25.05 | Sprawdzanie postępu realizacji projektu        |       |
-| 12 | 1.06  |                                                |       |
-| 13 | 8.06  |                                                |       |
-| 14 | 15.06 |                                                |       |
-| 15 | 22.06 | Finalne przedstawienie zrealizowanego projektu |       |
+| Lp | Data  | Temat                                          | Uwagi                                                                                |
+|----|-------|------------------------------------------------|--------------------------------------------------------------------------------------|
+| 1  | 2.03  | Wprowadzenie + IntelliJ                        | [Materiały na zajęcia](https://github.com/zzpj/pl-java2026/tree/main/intro-intellij) |
+| 2  | 9.03  |                                                |                                                                                      |
+| 3  | 16.03 |                                                |                                                                                      |
+| 4  | 23.03 | Przedstawienie pomysłu na projekt              |                                                                                      |
+| 5  | 30.03 |                                                |                                                                                      |
+| 6  | 13.04 |                                                |                                                                                      |
+| 7  | 20.04 |                                                |                                                                                      |
+| 8  | 4.05  |                                                |                                                                                      |
+| 9  | 11.05 |                                                |                                                                                      |
+| 10 | 18.05 |                                                |                                                                                      |
+| 11 | 25.05 | Sprawdzanie postępu realizacji projektu        |                                                                                      |
+| 12 | 1.06  |                                                |                                                                                      |
+| 13 | 8.06  |                                                |                                                                                      |
+| 14 | 15.06 |                                                |                                                                                      |
+| 15 | 22.06 | Finalne przedstawienie zrealizowanego projektu |                                                                                      |
 
 ## Ankiety
-- [Ankieta Wejściowa: Oczekiwania](https://forms.gle/3VvpUs9ntmiUmmBB7 ) - wypełnij teraz, abyśmy mogli lepiej dostosować zajęcia do Twoich potrzeb i oczekiwań!
-- [Ankieta Wyjściowa: Ocena zajęć i wnioski](https://to-be-defined-abc) - wypełnij po zakończeniu zajęć, aby podzielić się swoimi doświadczeniami i pomóc nam w przyszłości!
+
+- [Ankieta Wejściowa: Oczekiwania](https://forms.gle/3VvpUs9ntmiUmmBB7 ) - wypełnij teraz, abyśmy mogli lepiej
+  dostosować zajęcia do Twoich potrzeb i oczekiwań!
+- [Ankieta Wyjściowa: Ocena zajęć i wnioski](https://to-be-defined-abc) - wypełnij po zakończeniu zajęć, aby podzielić
+  się swoimi doświadczeniami i pomóc nam w przyszłości!
