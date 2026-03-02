@@ -56,7 +56,7 @@
 
 | Lp | Data  | Temat | Uwagi |
 |----|-------|-------|-------|
-| 1  | 2.03  | Wprowadzenie + IntelliJ                        |       |
+| 1  | 2.03  | Wprowadzenie + IntelliJ                        |  [Materiały na zajęcia](https://github.com/zzpj/pl-java2025/tree/main/intro-intellij)     |
 | 2  | 9.03  |                                                |       |
 | 3  | 16.03 |                                                |       |
 | 4  | 23.03 | Przedstawienie pomysłu na projekt              |       |
