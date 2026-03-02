@@ -78,3 +78,11 @@
   dostosować zajęcia do Twoich potrzeb i oczekiwań!
 - [Ankieta Wyjściowa: Ocena zajęć i wnioski](https://to-be-defined-abc) - wypełnij po zakończeniu zajęć, aby podzielić
   się swoimi doświadczeniami i pomóc nam w przyszłości!
+
+## Youtube
+- [Nagrania z zajęć 2026](https://to-be-defined-xyz)
+- [Nagrania z zajęć 2025](https://www.youtube.com/playlist?list=PLIPonSYREXmIEPZtRujsooBwAPBSsxROs)
+- [Nagrania z zajęć 2024](https://www.youtube.com/playlist?list=PLIPonSYREXmIQN-S_9i0mrTyAK5u0gA8t)
+- [Nagrania z zajęć 2023](https://www.youtube.com/playlist?list=PLIPonSYREXmKVCktLuj_Duve4tQNEA3p1)
+- [Nagrania z zajęć 2022](https://www.youtube.com/playlist?list=PLIPonSYREXmLkAgnHHFsoRL3bRZwOwrMi)
+- [Nagrania z zajęć 2021](https://www.youtube.com/playlist?list=PLIPonSYREXmICvsCV_osPqDlTg3MDPDPg)
